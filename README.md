@@ -6,3 +6,6 @@ SafetyChex currently has a URL scan function to scan a URL for all known IOC fou
 Alienvault, Krebbs, fire eye, etc.
 
 SafetyChex is devloped by abtzpro, Adam R, and HelloSecurity
+
+Changes to come: The ability to add a chosen endpoint added to the code as a prompt issued to the user at script runtime.
+The ability to add and customize IOC provider sources as a setup text based prompt at script runtime.
