@@ -1,0 +1,8 @@
+#Added the ability to choose a specific security provider source
+
+#Added the ability to remediate if remediation is publicly available and known online within the chosen security source.
+
+#Removed the SMTP Mail server functions as it was causing issues
+
+#Added the ability to check an endpoint against known IOC and print associated info to console
+
